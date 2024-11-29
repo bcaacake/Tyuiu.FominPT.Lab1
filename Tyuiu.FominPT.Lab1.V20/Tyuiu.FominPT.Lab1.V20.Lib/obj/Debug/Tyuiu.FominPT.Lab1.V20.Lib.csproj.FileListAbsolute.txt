@@ -1,0 +1,6 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\bin\Debug\Tyuiu.FominPT.Lab1.V20.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\bin\Debug\Tyuiu.FominPT.Lab1.V20.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\obj\Debug\Tyuiu.FominPT.Lab1.V20.Lib.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\obj\Debug\Tyuiu.FominPT.Lab1.V20.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\obj\Debug\Tyuiu.FominPT.Lab1.V20.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab1.V20\Tyuiu.FominPT.Lab1.V20.Lib\obj\Debug\Tyuiu.FominPT.Lab1.V20.Lib.pdb
