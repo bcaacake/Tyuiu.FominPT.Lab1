@@ -17,7 +17,6 @@ namespace Tyuiu.FominPT.Lab1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Лабораторная #1                                                         *");
             Console.WriteLine("* Тема: Расчёты арифметических выражений в C#                             *");
-            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Фомин Пётр Тарасович | МКМб-22-1                              *");
             Console.WriteLine("***************************************************************************");
@@ -28,9 +27,19 @@ namespace Tyuiu.FominPT.Lab1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
+            Console.WriteLine("*                             1 выражение                                 *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("*                   2y + x - 3a       3((2 + a) / 3y) + a / y             *");
             Console.WriteLine("*        z = 8a + --------------- + ---------------------------           *");
             Console.WriteLine("*                     ax - 8y          (3 - a) / (x + y^3)                *");
+            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                             2 выражение                                 *");
+            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                   4x - 2a + a               (a - 4) / y                 *");
+            Console.WriteLine("*        z = 16a - --------------- + 3x  +  ----------------              *");
+            Console.WriteLine("*                    a + 2x + y               5a / (x + 1)                *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
 
             double x, y, a;
@@ -45,8 +54,10 @@ namespace Tyuiu.FominPT.Lab1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-
-            Console.WriteLine(ds.Calculate(x, y, a));
+            Console.WriteLine("1 выражение:");
+            Console.WriteLine(ds.CalculateFirst(x, y, a));
+            Console.WriteLine("2 выражение:");
+            Console.WriteLine(ds.CalculateSecond(x, y, a));
             Console.ReadKey();
         }
     }
